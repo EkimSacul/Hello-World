@@ -1,2 +1,3 @@
 # Hello-World
 Git test repository.
+Getting started with Git...
